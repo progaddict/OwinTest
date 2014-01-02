@@ -2,7 +2,7 @@
 
 namespace HelloWorldSelfHosted
 {
-    public class Startup
+    public class HelloWorld
     {
         public void Configuration(IAppBuilder app)
         {
