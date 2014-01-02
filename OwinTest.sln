@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldSelfHosted", "Hel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiSelfHosted", "WebApiSelfHosted\WebApiSelfHosted.csproj", "{97900DBF-5BEC-46E1-8ED6-B1033DBE638F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinPipelineDemo", "OwinPipelineDemo\OwinPipelineDemo.csproj", "{1A96A547-24AF-4A33-B885-4A0A3AE8A885}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{97900DBF-5BEC-46E1-8ED6-B1033DBE638F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97900DBF-5BEC-46E1-8ED6-B1033DBE638F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97900DBF-5BEC-46E1-8ED6-B1033DBE638F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A96A547-24AF-4A33-B885-4A0A3AE8A885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A96A547-24AF-4A33-B885-4A0A3AE8A885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A96A547-24AF-4A33-B885-4A0A3AE8A885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A96A547-24AF-4A33-B885-4A0A3AE8A885}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
